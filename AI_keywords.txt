@@ -1,0 +1,45 @@
+ai
+machine learning
+machine-learning
+deep learning
+deep-learning
+embedding
+rnn
+cnn
+neural
+language model
+explainanbility
+pytorch
+tensorflow
+keras
+bert
+recommendation
+recsys
+ir
+classification
+clustering
+robot
+machine learning
+classification
+regression
+gradient descent
+clustering
+association
+decision trees
+support vector machines
+neural networks
+deep learning
+reinforcement learning
+bayesian
+Cross validation
+robotics
+computational neural networks
+natural language processing
+nlp
+computer vision
+supervised learning
+unsupervised learning
+reinforcement learning
+overfitting
+back propagation
+regularization
